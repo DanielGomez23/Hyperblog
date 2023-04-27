@@ -3,4 +3,6 @@ Esta es la historia de Daniel Gomez
 Daniel tiene 17 años y vive en Colombia
 
 main 1
+main 2
+
 mañana nos enfocaremos en su vida laboral
